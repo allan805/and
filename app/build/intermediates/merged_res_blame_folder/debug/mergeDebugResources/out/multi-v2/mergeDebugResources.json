@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hermesandroid.bridge.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/project/androidApps/hermes_bridge_app/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "391"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "600"
+                    }
+                },
+                {
+                    "source": "/data/data/com.termux/files/home/project/androidApps/hermes_bridge_app/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "106,55",
+                        "endColumns": "157,50",
+                        "endOffsets": "259,101"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,213",
+                        "endColumns": "157,50",
+                        "endOffsets": "208,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

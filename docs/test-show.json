@@ -1,0 +1,20 @@
+{
+  "page_id":"phase-test-1",
+  "title":"Hermes Runtime v3",
+  "message":"Phase 1/2/3 integration test",
+  "kind":"form",
+  "revision":1,
+  "status":"ready",
+  "tabs":["状态","控制","日志"],
+  "fields":[
+    {"id":"name","label":"姓名","type":"text","placeholder":"输入姓名","required":true,"on_change_action_id":"preview"},
+    {"id":"enabled","label":"启用","type":"switch","value":"true"},
+    {"id":"volume","label":"音量","type":"slider","min":0,"max":100,"step":5,"value":"50"},
+    {"id":"mode","label":"模式","type":"select","options":["Normal","Turbo","Silent"],"value":"Normal"}
+  ],
+  "lists":[{"id":"tasks","title":"任务列表","items":["Task A","Task B","Task C"]}],
+  "actions":[
+    {"id":"preview","label":"预览","style":"secondary","event":"on_change","debounce_ms":500},
+    {"id":"submit","label":"提交","style":"primary"}
+  ]
+}

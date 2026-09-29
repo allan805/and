@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_switch_thumb.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_switch_thumb.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/layout-land_activity_main.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_circuit_pattern.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_circuit_pattern.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_status_dot_red.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_status_dot_red.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_status_dot_green.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_status_dot_green.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_status_dot_grey.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_status_dot_grey.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_button_orange.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_button_orange.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_switch_track.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_switch_track.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_switch_track_on.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_switch_track_on.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_input_dark.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_input_dark.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_card_rounded.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_card_rounded.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_button_disconnect.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_button_disconnect.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/drawable_bg_switch_track_off.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/drawable/bg_switch_track_off.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/xml_accessibility_service_config.xml.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hermesandroid.bridge.app-debug-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.hermesandroid.bridge.app-main-6:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

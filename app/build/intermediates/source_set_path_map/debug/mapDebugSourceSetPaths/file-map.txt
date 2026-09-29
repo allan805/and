@@ -1,0 +1,7 @@
+com.hermesandroid.bridge.app-pngs-0 /data/data/com.termux/files/home/project/androidApps/hermes_bridge_app/app/build/generated/res/pngs/debug
+com.hermesandroid.bridge.app-resValues-1 /data/data/com.termux/files/home/project/androidApps/hermes_bridge_app/app/build/generated/res/resValues/debug
+com.hermesandroid.bridge.app-packageDebugResources-2 /data/data/com.termux/files/home/project/androidApps/hermes_bridge_app/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.hermesandroid.bridge.app-packageDebugResources-3 /data/data/com.termux/files/home/project/androidApps/hermes_bridge_app/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.hermesandroid.bridge.app-debug-4 /data/data/com.termux/files/home/project/androidApps/hermes_bridge_app/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.hermesandroid.bridge.app-debug-5 /data/data/com.termux/files/home/project/androidApps/hermes_bridge_app/app/src/debug/res
+com.hermesandroid.bridge.app-main-6 /data/data/com.termux/files/home/project/androidApps/hermes_bridge_app/app/src/main/res
